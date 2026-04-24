@@ -4,3 +4,5 @@ jinja2
 # easyocr
 itsdangerous
 pytest
+flask
+gunicorn
