@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+
+
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+share/
+venv/
+env/
+
+# Environment
+venv/
+env/
+
+# System
+.DS_Store
